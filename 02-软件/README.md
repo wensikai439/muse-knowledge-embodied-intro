@@ -13,6 +13,16 @@
 
 纯硬件资料；只抄关键词的摘要、未读原文就写的精读。
 
+## 里面有什么
+
+| 文件 | 一句话 |
+|---|---|
+| `rl-notes-cs285.md` | Berkeley CS285 深度强化学习笔记，中文，跟着一门好课从头讲到尾 |
+| `agentic-rl-lab.md` | Datawhale 的 Agentic RL 复现项目，GRPO / GSPO / DAPO，能跑起来 |
+| `agent-learning-ch10-agentic-rl.md` | 《从零开始学 Agent》第 10 章，重点是 10.2 节 SFT + LoRA |
+| `so101-hil-serl.md` | 个人博客：SO-101 真机上从零训 HIL-SERL，仿真 100% 到真机归零，三周调通约 70% |
+| `robotics-notebooks.md` | 中文机器人技术栈知识库，30 多条纵深路线，带 Sim2Real 部署检查清单 |
+
 ## 入库规矩
 
 没有 sikai 亲自批准，不往这里放东西。sikai 指名后，文件名用英文小写加 `-`，标题第一行写中文名，开头写来源、日期、为什么收它，不确定的写“未核实”。
