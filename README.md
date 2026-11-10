@@ -12,6 +12,7 @@
 |---|---|
 | `01-硬件/so101-hil-serl.md` | 个人博客：SO-101 真机上从零训 HIL-SERL，仿真 100% 到真机归零，三周调通约 70% |
 | `01-硬件/robotics-notebooks.md` | 中文机器人技术栈知识库，30 多条纵深路线，带 Sim2Real 部署检查清单 |
+| `01-硬件/zihao-lerobot-tutorial.md` | 同济子豪兄 LeRobot 真机教程：从买零件、组装、校准到采数据、训模型、跑推理，全流程 |
 | `02-软件/rl-notes-cs285.md` | Berkeley CS285 深度强化学习笔记，中文，跟着一门好课从头讲到尾 |
 | `02-软件/agentic-rl-lab.md` | Datawhale 的 Agentic RL 复现项目，GRPO / GSPO / DAPO，能跑起来 |
 | `02-软件/agent-learning-ch10-agentic-rl.md` | 《从零开始学 Agent》第 10 章，重点是 10.2 节 SFT + LoRA |
@@ -63,7 +64,7 @@ sikai 是刚进入具身领域的大学生，主线是 code-as-policy 的论文�
 
 | 文件夹 | 放什么 | 现在里面有什么 |
 |---|---|---|
-| `01-硬件` | 机器人本体、关节、夹爪、传感器、执行器、运动学 / 动力学入门、真机部署实战经验 | SO-101 真机 HIL-SERL 实战、机器人技术栈知识库 |
+| `01-硬件` | 机器人本体、关节、夹爪、传感器、执行器、运动学 / 动力学入门、真机部署实战经验 | SO-101 真机 HIL-SERL 实战、机器人技术栈知识库、同济子豪兄 LeRobot 教程 |
 | `02-软件` | 感知、强化学习、仿真与评测、工具与开源仓库 | RL-notes（CS285）、Agentic RL Lab、从零开始学 Agent 第 10 章 |
 | `03-课堂知识` | 入门地图、术语表、课堂上讲的理论知识 | Diy-LLM（CS336 中文版）、MIT 机器人操作课程讲义 |
 | `04-科研论文` | 怎么做科研、怎么写论文、怎么找问题、读论文、想 Idea、画图、Rebuttal | 找不到问题发论文怎么办（sikai 的四种方法）、南大 Research-Starter-Kit、港科大 Supervisor-Skills |

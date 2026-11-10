@@ -8,6 +8,7 @@
 |---|---|
 | `so101-hil-serl.md` | 个人博客：SO-101 真机上从零训 HIL-SERL，仿真 100% 到真机归零，三周调通约 70% |
 | `robotics-notebooks.md` | 中文机器人技术栈知识库，30 多条纵深路线，带 Sim2Real 部署检查清单 |
+| `zihao-lerobot-tutorial.md` | 同济子豪兄 LeRobot 真机教程：从买零件、组装、校准到采数据、训模型、跑推理，全流程 |
 
 ## 放什么
 
