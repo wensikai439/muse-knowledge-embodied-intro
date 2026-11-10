@@ -52,10 +52,10 @@ sikai 是刚进入具身领域的大学生，主线是 code-as-policy 的论文�
 | `02-术语表` | 每个术语从零定义，配一个最简单的例子 | （待 sikai 指定） |
 | `03-感知` | 视觉、语言、触觉、状态估计、世界模型、图像差异等“看见与理解” | （待 sikai 指定） |
 | `04-机器人本体与硬件` | 机器人、关节、夹爪、传感器、执行器、运动学 / 动力学入门 | （待 sikai 指定） |
-| `05-策略与代码` | 规划、策略、VLA、code-as-policy、控制、调试循环 | Diy-LLM（CS336 中文版） |
+| `05-决策、规划与控制` | 决策、规划、VLA、code-as-policy、控制、调试循环 | Diy-LLM（CS336 中文版） |
 | `06-强化学习` | 强化学习的好教程、综述、经典算法、代码实现、奖励设计 | RL-notes（CS285）、Agentic RL Lab、从零开始学 Agent 第 10 章 |
 | `07-仿真与评测` | 仿真器、基准、任务、评分器、harness、评测方法 | （待 sikai 指定） |
-| `08-论文精读` | 按 sikai 规矩写的精读：发现了什么问题、关键办法是什么、对哪个环节有用、开源吗 | 找不到问题发论文怎么办（sikai 的四种方法）、南大 Research-Starter-Kit、港科大 Supervisor-Skills |
+| `08-科研方法与论文写作` | 怎么做科研、怎么写论文、怎么找问题、读论文、想 Idea、画图、Rebuttal | 找不到问题发论文怎么办（sikai 的四种方法）、南大 Research-Starter-Kit、港科大 Supervisor-Skills |
 | `09-工具与开源仓库` | 开源项目、科研仓库、南大 / 港大等科研仓库、科研画图工具、sikai 自己常用的工具 | （待 sikai 指定；Supervisor-Skills 里的画图技能见 08） |
 
 每个文件夹里都有自己的 `README.md`，写明“放什么 / 不放什么”。
@@ -70,7 +70,7 @@ sikai 是刚进入具身领域的大学生，主线是 code-as-policy 的论文�
 2. 再读 `01-入门地图`，建立全景；
 3. 遇到不懂的词，去 `02-术语表` 查从零定义；
 4. 想学强化学习，直接去 `06-强化学习`，先读 RL-notes 的 Preliminaries，再读从零开始学 Agent 的 10.2；
-5. 想学怎么做科研、怎么写论文，去 `08-论文精读`，先读南大 Research-Starter-Kit，再读港科大 Supervisor-Skills。
+5. 想学怎么做科研、怎么写论文，去 `08-科研方法与论文写作`，先读南大 Research-Starter-Kit，再读港科大 Supervisor-Skills。
 
 ## 怎么往里放东西
 
