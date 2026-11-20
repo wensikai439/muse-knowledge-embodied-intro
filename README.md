@@ -4,6 +4,20 @@
 
 这是一个公开仓库（Public）。不要放密码、密钥、验证码、私人账号信息、个人隐私。
 
+## 形象
+
+<p align="center">
+  <img src="assets/logos/moqi-hood.png" height="120" alt="墨奇">
+  <img src="assets/logos/moqi-arms-up.png" height="120" alt="墨奇举手">
+  <img src="assets/logos/moqi-cape-star.png" height="120" alt="墨奇紫披风">
+</p>
+
+<p align="center">
+  <img src="assets/logos/captain-logo.png" height="72" alt="CAPTAIN">
+</p>
+
+墨奇是这个知识库的小助手形象；CAPTAIN 是 WHU-Captain 机器人团队的标志。
+
 ## 内容一览
 
 每个文件一句话，点进去之前先看这张表就知道它讲什么：
