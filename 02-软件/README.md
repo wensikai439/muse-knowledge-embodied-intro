@@ -6,6 +6,7 @@
 
 | 文件 | 一句话 |
 |---|---|
+| [reinforcement-learning-an-introduction-2e.pdf](reinforcement-learning-an-introduction-2e.pdf) | Sutton 和 Barto 的《强化学习导论》第 2 版，覆盖马尔可夫决策过程、动态规划、时序差分和策略梯度 |
 | `rl-notes-cs285.md` | Berkeley CS285 深度强化学习笔记，中文，跟着一门好课从头讲到尾 |
 | `agentic-rl-lab.md` | Datawhale 的 Agentic RL 复现项目，GRPO / GSPO / DAPO，能跑起来 |
 | `agent-learning-ch10-agentic-rl.md` | 《从零开始学 Agent》第 10 章，重点是 10.2 节 SFT + LoRA |
